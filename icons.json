@@ -25,12 +25,108 @@
       "authorUrl": "https://www.notion.so/Minimal-Notion-Icons-a6735b20d07a4ed5a04ef2538170f423"
     },
         {
-      "name": "Finally!!",
-      "source": "AC",
+      "name": "Admin stuff",
+      "source": "Admin",
       "extension": "png",
-      "count": 357,
+      "count": 100,
       "author": "Daddy Chester",
       "authorUrl": "https://ajchester.com"
+    },
+        {
+      "name": "Black Icons",
+      "source": "Black",
+      "extension": "png",
+      "count": 100,
+      "author": "beaky Chester",
+      "authorUrl": "https://ajchester.com"
+    },
+    {
+    "name": "Misc",
+    "source": "Misc",
+    "extension": "png",
+    "count": 100,
+    "author": "Rachel Chester",
+    "authorUrl": "https://ajchester.com"
+    },
+    {
+    "name": "More Misc",
+    "source": "Misc2",
+    "extension": "png",
+    "count": 100,
+    "author": "Rachel Barno-Chester",
+    "authorUrl": "https://rachelbarno.com"
+    },
+    {
+    "name": "Much?",
+    "source": "Much",
+    "extension": "png",
+    "count": 100,
+    "author": "NahNah Chester",
+    "authorUrl": "https://ajchester.com"
+    },
+    {
+    "name": "Science",
+    "source": "Sci",
+    "extension": "png",
+    "count": 100,
+    "author": "Rachel Barno-Chester",
+    "authorUrl": "https://rachelbarno.com"
+    },
+    {
+    "name": "Space",
+    "source": "Space",
+    "extension": "png",
+    "count": 100,
+    "author": "Who fuckin' knows?",
+    "authorUrl": "https://ajchester.com"
+    },
+    {
+    "name": "Screens n such",
+    "source": "Screen",
+    "extension": "png",
+    "count": 100,
+    "author": "Forreal though",
+    "authorUrl": "https://ajchester.com"
+    },
+    {
+    "name": "Single Colors",
+    "source": "Single",
+    "extension": "png",
+    "count": 100,
+    "author": "Like Totally",
+    "authorUrl": "https://ajchester.com"
+    },
+    {
+    "name": "Tech",
+    "source": "Tech",
+    "extension": "png",
+    "count": 100,
+    "author": "You Know?",
+    "authorUrl": "https://ajchester.com"
+    },
+    {
+    "name": "tiny stuff",
+    "source": "tiny",
+    "extension": "svg",
+    "count": 100,
+    "author": "You Know?",
+    "authorUrl": "https://ajchester.com"
+    },
+    {
+    "name": "tiny tiny stuff",
+    "source": "tiny2",
+    "extension": "svg",
+    "count": 100,
+    "author": "Yes, I do.",
+    "authorUrl": "https://ajchester.com"
+    },
+    {
+    "name": "tiny tiny tiny stuff",
+    "source": "tiny3",
+    "extension": "svg",
+    "count": 100,
+    "author": "mostly",
+    "authorUrl": "https://ajchester.com"
     },
     {
       "name": "Minimal Notion Icons Monochromatic",
