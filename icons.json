@@ -104,30 +104,7 @@
     "author": "You Know?",
     "authorUrl": "https://ajchester.com"
     },
-    {
-    "name": "tiny stuff",
-    "source": "tiny",
-    "extension": "svg",
-    "count": 100,
-    "author": "You Know?",
-    "authorUrl": "https://ajchester.com"
-    },
-    {
-    "name": "tiny tiny stuff",
-    "source": "tiny2",
-    "extension": "svg",
-    "count": 100,
-    "author": "Yes, I do.",
-    "authorUrl": "https://ajchester.com"
-    },
-    {
-    "name": "tiny tiny tiny stuff",
-    "source": "tiny3",
-    "extension": "svg",
-    "count": 100,
-    "author": "mostly",
-    "authorUrl": "https://ajchester.com"
-    },
+
     {
       "name": "Minimal Notion Icons Monochromatic",
       "source": "MNIM",
